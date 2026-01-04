@@ -26,5 +26,5 @@ In Python There is three type of function
 
 Also i learn about data type in python there is different type of data type 
 
-int python there is no Any main funtion as entry point of program for goog programming practice we can use main funtion that is user defined funtion from main funtion our funtion start running
+int python there is no Any main funtion as entry point of program for goog programming practice we can use main funtion that is user defined funtion from main funtion our funtion start running  
 
