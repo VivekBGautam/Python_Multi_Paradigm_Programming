@@ -10,7 +10,7 @@ A data type define the type of value and the set of opration that can be perform
 In simple word it tells **What Kind of data** a variable can hold like **numbers, text,boolean,values,collection,etc**
 
 1. Numeric Data Type   
-    > int
+    > int 
     > float
     > complex
 
