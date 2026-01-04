@@ -9,7 +9,7 @@ Function is a named block of code that perform a specific task
 ### we use funtion for   
 
 #### Reusability
-
+ 
 #### Modularity
 
 #### Readability
