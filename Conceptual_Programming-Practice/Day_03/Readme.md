@@ -6,7 +6,7 @@ On Day 03 of My python journey i can learn about **Function**
 
 Function is a named block of code that perform a specific task
 
-### we use funtion for   
+## we use funtion for   
 
 #### Reusability
  
