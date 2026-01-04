@@ -12,7 +12,7 @@ Function is a named block of code that perform a specific task
  
 #### Modularity
 
-#### Readability
+#### Readability 
 
 #### Avoid repitation
 
