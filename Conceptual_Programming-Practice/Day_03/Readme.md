@@ -55,7 +55,7 @@ In simple word it tells **What Kind of data** a variable can hold like **numbers
 6. Set Data Type
    > set
 
-7. Binary Data Type
+7. Binary Data Type 
    > Bytes
    > byte array
 
