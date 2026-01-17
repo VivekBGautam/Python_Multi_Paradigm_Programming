@@ -10,3 +10,4 @@ On day_04 i learn about advanced concept of function As
     1. Keyword arguments
     2. posistional arguments
     3. default arguments
+    4. Variable number of arguemnts (*Args)
