@@ -1,3 +1,4 @@
+# Default funtion arguments
 
 def EmployeeInfo(Name,Age,Salery,City = "Mumbai"):
     print("Name : ",Name)
@@ -11,4 +12,5 @@ def main():
     EmployeeInfo("Rahul",26,2000.50,"Pune")
 
 if __name__ == "__main__":
+
     main()
