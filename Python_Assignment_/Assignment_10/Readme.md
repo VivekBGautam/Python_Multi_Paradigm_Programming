@@ -1,5 +1,5 @@
 # Assignment 10 – Loop Programs
-
+---
 This repository contains Python programs for Assignment 10.
 Each program demonstrates basic looping and mathematical operations.
 
@@ -70,5 +70,6 @@ Replace X with the question number.
 **Vivek Bhauraj Gautam**
 
 📧 Email: vivekbgautam@gmail.com
+
 
 🔗 GitHub: https://github.com/vivekbgautam
