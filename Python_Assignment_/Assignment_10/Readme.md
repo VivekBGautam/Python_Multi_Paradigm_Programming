@@ -6,6 +6,7 @@ Each program demonstrates basic looping and mathematical operations.
 ---
 
 ## Project Structure
+```
 Assignment10/
 │
 ├── program10_1.py   → Multiplication table of a number
@@ -13,7 +14,7 @@ Assignment10/
 ├── program10_3.py   → Factorial of a number
 ├── program10_4.py   → Prints all even numbers till given number
 └── program10_5.py   → Prints all odd numbers till given number
-
+```
 ---
 
 ## Questions Included
@@ -73,3 +74,4 @@ Replace X with the question number.
 
 
 🔗 GitHub: https://github.com/vivekbgautam
+
