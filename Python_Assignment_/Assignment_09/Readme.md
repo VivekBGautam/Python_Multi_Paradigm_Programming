@@ -6,6 +6,7 @@ Each program demonstrates the use of functions for basic operations.
 ---
 
 ## File Structure
+```
 Assignment09/
 │
 ├── program09_1.py   → Prints "Jay Ganesh"
@@ -13,7 +14,7 @@ Assignment09/
 ├── program09_3.py   → Prints square of a number
 ├── program09_4.py   → Prints cube of a number
 └── program09_5.py   → Checks divisibility by 3 and 5
-
+```
 ---
 
 ## Questions Included
@@ -60,5 +61,6 @@ Replace X with the question number.
 
 **Vivek Bhauraj Gautam**
 📧 Email: vivekbgautam@gmail.com
+
 
 🔗 GitHub: https://github.com/vivekbgautam
