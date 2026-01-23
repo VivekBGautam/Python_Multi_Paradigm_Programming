@@ -26,7 +26,7 @@ Print numbers from N to 1 (Reverse Order)
 ```
 
 ## Program Details
-🔹 1. Check Vowel or Consonant
+###🔹 1. Check Vowel or Consonant
 
 Accepts a single character and determines whether it is a vowel or consonant.
 
@@ -96,5 +96,6 @@ Python Programming Assignment
 
 
 Date: 19 January 2026
+
 
 
