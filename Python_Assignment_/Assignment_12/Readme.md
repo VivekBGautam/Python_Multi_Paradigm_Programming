@@ -3,6 +3,7 @@
 This repository contains Python programs that solve common beginner-level problems based on numbers and characters.
 Each program demonstrates the use of functions, loops, and conditional statements.
 ---
+
 ## Assignment Questions Covered
 
 Check whether a character is a Vowel or Consonant
@@ -14,7 +15,9 @@ Perform Addition, Subtraction, Multiplication, and Division
 Print numbers from 1 to N
 
 Print numbers from N to 1 (Reverse Order)
+
 ---
+
 ## File Structure
 ```
 .
@@ -25,6 +28,7 @@ Print numbers from N to 1 (Reverse Order)
 └── program5.py   # Print numbers in reverse order
 ```
 ---
+
 ## Program Details
 ### 🔹 1. Check Vowel or Consonant
 
@@ -67,12 +71,15 @@ Input: 5
 Output: 5 4 3 2 1
 
 ---
+
 ## How to Run
 
 Run any program:
 
 python Filename.py
+
 ---
+
 ## Learning Outcome
 
 Through this project, you will learn:
@@ -84,7 +91,9 @@ How to perform arithmetic operations
 How to work with loops and conditions
 
 How to solve basic logical problems
+
 ---
+
 ## Author
 
 #### **Vivek Bhauraj Gautam**
@@ -97,6 +106,7 @@ Python Programming Assignment
 
 
 Date: 19 January 2026
+
 
 
 
