@@ -16,6 +16,7 @@ Print numbers from 1 to N
 Print numbers from N to 1 (Reverse Order)
 
 ## File Structure
+```
 .
 ├── program1.py   # Check vowel or consonant
 ├── program2.py   # Print factors of a number
@@ -91,5 +92,6 @@ How to solve basic logical problems
 🔗 GitHub: https://github.com/vivekbgautam
 
 Python Programming Assignment
+
 
 Date: 19 January 2026
