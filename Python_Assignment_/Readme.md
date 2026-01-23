@@ -6,7 +6,7 @@
 Here contain all my Assignment on the besis of Concept i learn 
 After learning new concept i practice there Assignment Question 
 
----
+--- 
 ### Python is a multi Paradigm laguage 
 As python is multi paradigm laguage we can write using different procedure 
 We can also write logic using procedural oriented program 
