@@ -86,7 +86,7 @@ How to solve basic logical problems
 
 ## Author
 
-**Vivek Bhauraj Gautam**
+#### **Vivek Bhauraj Gautam**
 
 📧 Email: vivekbgautam@gmail.com
 
@@ -96,4 +96,5 @@ Python Programming Assignment
 
 
 Date: 19 January 2026
+
 
