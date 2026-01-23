@@ -65,6 +65,7 @@ Accepts a number and prints numbers from that number down to 1.
 
 Input: 5
 Output: 5 4 3 2 1
+
 ---
 ## How to Run
 
@@ -96,6 +97,7 @@ Python Programming Assignment
 
 
 Date: 19 January 2026
+
 
 
 
