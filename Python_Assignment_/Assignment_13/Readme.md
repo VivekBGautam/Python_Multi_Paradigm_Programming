@@ -16,13 +16,14 @@ Convert Number into Binary Equivalent
 Display Grade based on Marks
 
 ## File Structure
+```
 .
 ├── program13_1.py   # Area of rectangle
 ├── program13_2.py   # Area of circle
 ├── program13_3.py   # Perfect number check
 ├── program13_4.py   # Binary equivalent of number
 └── program13_5.py   # Grade display based on marks
-
+```
 ## Program Details
 
 🔹 1. Area of Rectangle
@@ -92,5 +93,6 @@ How to design a grading system using conditions
 🔗 GitHub: https://github.com/vivekbgautam
 
 Python Programming Assignment
+
 
 Date: 20 January 2026
