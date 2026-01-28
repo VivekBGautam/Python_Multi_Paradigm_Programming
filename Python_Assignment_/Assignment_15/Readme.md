@@ -12,7 +12,7 @@ Each program focuses on:
 - Creating lambda functions
 - Applying `map()` to transform lists
 - Applying `filter()` to select specific elements
-- Applying `reduce()` to aggregate list elements
+- Applying `reduce()` to aggregate list elements 
 - Performing mathematical and logical operations on numbers and strings
 
 ---
@@ -140,3 +140,4 @@ These programs provide a foundation for functional programming in Python and pra
 ---
 
  
+
