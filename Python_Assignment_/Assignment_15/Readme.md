@@ -60,7 +60,7 @@ Assignment_15/
 - Accepts a list of numbers
 - Uses `filter()` with a lambda function to select odd numbers
 - Displays the filtered list
-
+ 
 ---
 
 ### **Program 15_4 : Sum of Elements**
@@ -138,4 +138,5 @@ These programs provide a foundation for functional programming in Python and pra
 - **GitHub:** https://github.com/vivekbgautam  
 
 ---
+
  
