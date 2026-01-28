@@ -20,6 +20,25 @@ To improve functional programming skills in Python
 
 ---
 
+## File Structure
+```
+Assignment_Lambda_Functions_Python/
+│
+├── program14_1.py  -> Square of number
+├── program14_2.py  -> Cube of number
+├── program14_3.py  -> Maximum of two numbers
+├── program14_4.py  -> Minimum of two numbers
+├── program14_5.py  -> Even number check
+├── program14_6.py  -> Odd number check
+├── program14_7.py  -> Divisible by 5 check
+├── program14_8.py  -> Addition of two numbers
+├── program14_9.py  -> Multiplication of two numbers
+├── program14_10.py -> Largest of three numbers
+│
+└── README.md
+```
+---
+
 ## List And Description of Programs
 
 Write a lambda function which accepts one number and returns square of that number.
@@ -43,26 +62,6 @@ Write a lambda function which accepts two numbers and returns multiplication.
 Write a lambda function which accepts three numbers and returns largest number.
 
 ---
-
-## File Structure
-```
-Assignment_Lambda_Functions_Python/
-│
-├── program14_1.py  -> Square of number
-├── program14_2.py  -> Cube of number
-├── program14_3.py  -> Maximum of two numbers
-├── program14_4.py  -> Minimum of two numbers
-├── program14_5.py  -> Even number check
-├── program14_6.py  -> Odd number check
-├── program14_7.py  -> Divisible by 5 check
-├── program14_8.py  -> Addition of two numbers
-├── program14_9.py  -> Multiplication of two numbers
-├── program14_10.py -> Largest of three numbers
-│
-└── README.md
-```
----
-
 
 ## ▶️ How to Run
 1. Make sure Python is installed on your system.
@@ -93,5 +92,6 @@ Cleaner and more concise Python code
 🔗 GitHub: https://github.com/vivekbgautam
 
 ## Date
+
 
 January 2026
