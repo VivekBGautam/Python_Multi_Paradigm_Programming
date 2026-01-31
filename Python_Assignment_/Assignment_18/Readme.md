@@ -17,7 +17,7 @@ This assignment focuses on understanding and implementing **lambda functions** a
 ## File Structure
 
 ```
-Assignment_Lambda/
+Assignment_18_Lambda/
 │
 ├── Program18_1.py   # Power of two using lambda
 ├── Program18_2.py   # Multiplication using lambda
@@ -174,5 +174,6 @@ This assignment helps in understanding:
 * **Language** : Python 3
 
 ### End of Assignment
+
 
 
