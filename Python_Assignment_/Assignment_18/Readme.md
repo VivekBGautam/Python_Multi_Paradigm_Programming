@@ -1,4 +1,4 @@
-# Assignment_18 : Lambda Function, Filter, Map and Reduce in Python 
+# Assignment_18 : Lambda Function, Filter, Map and Reduce in Python  
 
 ---
 
@@ -180,6 +180,7 @@ This assignment helps in understanding:
 ### End of Assignment
 
 ----
+
 
 
 
