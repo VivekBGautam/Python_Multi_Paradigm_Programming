@@ -14,7 +14,7 @@ This assignment focuses on understanding and implementing **lambda functions** a
 
 ---
 
-## File Structure
+## File Structure 
 
 ```
 Assignment_18_Lambda/
@@ -174,6 +174,7 @@ This assignment helps in understanding:
 * **Language** : Python 3
 
 ### End of Assignment
+
 
 
 
