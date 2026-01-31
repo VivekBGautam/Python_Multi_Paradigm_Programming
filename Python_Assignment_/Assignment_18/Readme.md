@@ -14,6 +14,20 @@ This assignment focuses on understanding and implementing **lambda functions** a
 
 ---
 
+## File Structure
+
+```
+Assignment_Lambda/
+│
+├── Program18_1.py   # Power of two using lambda
+├── Program18_2.py   # Multiplication using lambda
+├── Program18_3.py   # Filter, Map, Reduce (Range & Product)
+├── Program18_4.py   # Filter Even, Square, Sum
+├── Program18_5.py   # Prime Filter, Double, Max
+└── README.md
+```
+---
+
 ## Assignment Questions
 
 ### Question 1
@@ -142,21 +156,6 @@ Write a program which contains **filter()**, **map()**, and **reduce()** in it. 
 
 ---
 
-## File Structure
-
-```
-Assignment_Lambda/
-│
-├── Program18_1.py   # Power of two using lambda
-├── Program18_2.py   # Multiplication using lambda
-├── Program18_3.py   # Filter, Map, Reduce (Range & Product)
-├── Program18_4.py   # Filter Even, Square, Sum
-├── Program18_5.py   # Prime Filter, Double, Max
-└── README.md
-```
-
----
-
 ## Conclusion
 
 This assignment helps in understanding:
@@ -175,3 +174,4 @@ This assignment helps in understanding:
 * **Language** : Python 3
 
 ### End of Assignment
+
