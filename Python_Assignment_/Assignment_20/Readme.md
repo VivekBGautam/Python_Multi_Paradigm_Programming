@@ -6,7 +6,7 @@ Python Multithreading Using `threading` Module
 ---
 
 ## Assignment Description
-This assignment demonstrates the use of **multithreading in Python**.  
+This assignment demonstrates the use of **multithreading in Python**.   
 Multiple threads are created to perform different tasks such as number processing, list operations, string analysis, and thread synchronization.
 
 Each program focuses on:
@@ -116,3 +116,4 @@ These programs provide a strong foundation for real-world multithreaded applicat
 - **GitHub:** https://github.com/vivekbgautam  
 
 ---
+
