@@ -2,13 +2,13 @@
 
 ---
 
-## 🧾 Assignment Title
+## Assignment Title
 
 **File Handling Operations using Python**
 
 ---
 
-## 🎯 Aim
+## Aim
 
 The aim of this assignment is to understand and implement various **file handling operations** in Python such as:
 
@@ -22,7 +22,7 @@ These programs strengthen concepts related to **files, command line arguments, a
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 Assignment_29/
@@ -37,7 +37,7 @@ Assignment_29/
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 * Python 3.x
 * Basic knowledge of file handling
@@ -168,5 +168,6 @@ After completing this assignment, you will be able to:
 ## ✅ Conclusion
 
 Assignment 29 provides hands-on experience with real-world file operations. These programs are essential for understanding how Python interacts with files and how data can be processed efficiently using built-in modules and functions.
+
 
 
