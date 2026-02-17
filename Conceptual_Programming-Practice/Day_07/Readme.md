@@ -21,7 +21,7 @@ and learned many bilt-in method of multi threding
 4. getPriority
 5. run
 
-And many more 
+And many more  
 
 ---
 
