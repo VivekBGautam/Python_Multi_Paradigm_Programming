@@ -6,3 +6,19 @@
 
  To use concept of multi threading in aur program we need to import inbuilt module
  that is "Threading"
+
+and learned many bilt-in method of multi threding 
+
+1. join
+2. sleet
+3. setPriority
+4. getPriority
+5. run
+
+And many more 
+
+Author : Vivek Bhautaj Gautam 
+
+Github : http://github/vivekbgautam
+
+Email : Vivekbgautam@gmail.com
