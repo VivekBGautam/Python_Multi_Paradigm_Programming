@@ -9,6 +9,12 @@
 
 and learned many bilt-in method of multi threding 
 
+---
+
+Meathid of multithreading class
+
+---
+
 1. join
 2. sleet
 3. setPriority
