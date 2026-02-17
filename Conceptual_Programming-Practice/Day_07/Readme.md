@@ -25,8 +25,10 @@ And many more
 
 ---
 
-Author : Vivek Bhautaj Gautam 
+### **Author** 
 
-Github : http://github/vivekbgautam
+**Name**       : Vivek Bhautaj Gautam 
 
-Email : Vivekbgautam@gmail.com
+**Github** : http://github/vivekbgautam
+
+**Email**  : Vivekbgautam@gmail.com
