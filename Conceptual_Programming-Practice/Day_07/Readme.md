@@ -17,7 +17,7 @@ and learned many bilt-in method of multi threding
 
 1. join
 2. sleet
-3. setPriority
+3. setPriority 
 4. getPriority
 5. run
 
