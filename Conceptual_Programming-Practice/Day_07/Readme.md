@@ -1,5 +1,4 @@
 # Day_07
-
 ---  
 
  On Day 7 i learn about what is multi threading 
