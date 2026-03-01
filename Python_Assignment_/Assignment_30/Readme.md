@@ -2,7 +2,7 @@
 
 ---
 
-## 🧾 Assignment Title
+## 🧾 Assignment Title 
 
 **Advanced File Processing using Python**
 
