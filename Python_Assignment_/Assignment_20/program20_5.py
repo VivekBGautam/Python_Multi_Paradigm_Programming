@@ -4,7 +4,7 @@
 # Thread2 should display numbers from 50 to 1 in reverse order.
 # Ensure that:
 # Thread2 starts execution only after Thread1 has completed.
-# Use appropriate thread synchronizatio
+# Use appropriate thread synchronization
 
 import threading
 
