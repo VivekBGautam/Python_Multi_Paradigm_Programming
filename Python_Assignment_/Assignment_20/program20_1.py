@@ -1,4 +1,4 @@
-# 1. : Design a Python application that creates two separate threads named Even and Odd.
+# 1. : Design a Python application that creates two separate threads named Even and Odd. 
 
 # The Even thread should display the first 10 even numbers.
 # The Odd thread should display the first 10 odd numbers.
