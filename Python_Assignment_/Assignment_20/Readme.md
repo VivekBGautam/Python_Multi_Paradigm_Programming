@@ -1,7 +1,7 @@
 # Assignment_20 - Python Multithreading Assignment
 
 ## Assignment Title
-Python Multithreading Using `threading` Module
+Python Multithreading Using `threading` Module 
 
 ---
 
