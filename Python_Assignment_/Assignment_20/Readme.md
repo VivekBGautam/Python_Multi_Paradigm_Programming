@@ -3,7 +3,7 @@
 ## Assignment Title
 Python Multithreading Using `threading` Module 
  
----
+--- 
 
 ## Assignment Description
 This assignment demonstrates the use of **multithreading in Python**.   
