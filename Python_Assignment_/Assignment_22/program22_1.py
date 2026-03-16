@@ -1,5 +1,5 @@
 # 1: Write a Python program to implement a class named Demo with the following
-# specifications: 
+# specifications:
 
 #     . The class should contain two instance variables: no1 and no2.
 
