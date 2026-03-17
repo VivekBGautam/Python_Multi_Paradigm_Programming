@@ -2,5 +2,5 @@
 
 ---
 
-On Day 08 ai learned about Exception handling 
+On Day 08 an learned about Exception handling 
   
