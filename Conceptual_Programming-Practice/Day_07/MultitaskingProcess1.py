@@ -1,7 +1,7 @@
 import multiprocessing
 import time
 import os
-
+ 
 def SumEven(No):
     print("PID of sumEven :",os.getpid())         # 51
     print("PPID of sumeven :",os.getppid())         # 21
