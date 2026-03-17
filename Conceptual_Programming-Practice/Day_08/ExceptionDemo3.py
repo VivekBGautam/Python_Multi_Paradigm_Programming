@@ -1,6 +1,6 @@
 
 def main():
-    Ans = 0
+    Ans = 0 
     try: 
         print("Inside try")
 
