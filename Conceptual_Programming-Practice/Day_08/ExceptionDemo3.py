@@ -1,7 +1,7 @@
 
 def main():
     Ans = 0 
-    try: 
+    try:
         print("Inside try")
 
         print("Enter first number :")
