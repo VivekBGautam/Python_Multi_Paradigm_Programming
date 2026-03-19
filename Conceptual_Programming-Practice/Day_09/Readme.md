@@ -22,7 +22,7 @@ If our program contain any lambda function then we can say it is a functional ap
 If we write a class in our program and inicialize the charecteristics of a class and write a behaviour of class that approach is also call as Object oriented approach
 
 Also i learned about Class 
-Class is a used to binding two thing charecteriscs and behaviour together 
+Class is a used to binding two thing charecteristics and behaviour together 
 Class contains two thing 
 
 1. Charecteristics -> Variables
