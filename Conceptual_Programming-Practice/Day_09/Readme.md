@@ -28,7 +28,7 @@ Class contains two thing
 1. Charecteristics -> Variables
 2. Behaviour  -> Functions
 
-###Author
-**Vivek Bhauraj Gautam**
+### Author
+#### Vivek Bhauraj Gautam
 ### Email -> vivekbgautam@gmail.com
 ### Github -> https://github.gom/Vivekbgautam
