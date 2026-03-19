@@ -3,12 +3,12 @@
 Now I Learned In how many ways we can write a python program 
 
 To write any pyhon progam we can use different approaches like 
-
+```
 1. Scripting approach
 2. Procedural approach
 3. Functional approach
 4. Object oriented approach
-
+```
 1. Scripting approach
 To write using scripting approach there is no such special syntax only we need to write a program on zero indentation
 
@@ -27,3 +27,8 @@ Class contains two thing
 
 1. Charecteristics -> Variables
 2. Behaviour  -> Functions
+
+** Author **
+**Vivek Bhauraj Gautam**
+### Email -> vivekbgautam@gmail.com
+### Github -> https://github.gom/Vivekbgautam
