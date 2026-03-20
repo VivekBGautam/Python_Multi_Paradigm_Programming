@@ -1,3 +1,3 @@
 #  Day 10
 
-Now I learned about 
+Now I learned about  
