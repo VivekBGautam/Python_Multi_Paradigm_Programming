@@ -1,5 +1,5 @@
 # Dunder method / Magic Method / Special Method 
-
+ 
 class Demo:
     def __init__(self,A):
         self.No = A
