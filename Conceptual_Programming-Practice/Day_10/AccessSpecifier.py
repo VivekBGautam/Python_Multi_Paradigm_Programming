@@ -4,4 +4,4 @@ class Demo:
         self._No2 = 20      # Protected
         self.__No3 = 30     # Private
 
-obj = Demo()
+obj = Demo() 
