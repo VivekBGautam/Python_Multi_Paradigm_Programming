@@ -1,5 +1,5 @@
 class Parrent:
-    def __init__(self): 
+    def __init__(self):  
         print("Inside parent constructor")
     
     def Fun(self):
