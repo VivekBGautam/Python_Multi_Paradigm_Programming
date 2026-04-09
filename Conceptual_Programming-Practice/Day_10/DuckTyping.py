@@ -1,7 +1,7 @@
 # Dick Typing : it is a concept where the type of an object is determined 
 # By its behaviour, not by its class 
 
-class InkjetPrinter:
+class InkjetPrinter: 
     def PrintDocument(self,document):
         print("Inkjet Printer printing : ",document)
 
