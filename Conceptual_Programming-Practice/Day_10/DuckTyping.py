@@ -3,7 +3,7 @@
 
 class InkjetPrinter: 
     def PrintDocument(self,document):
-        print("Inkjet Printer printing : ",document)
+        print("Inkjet Printer printing : ",document) 
 
 class LeserPrinter:
     def PrintDocument(self,document):
