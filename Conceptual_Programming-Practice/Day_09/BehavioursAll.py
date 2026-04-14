@@ -2,7 +2,7 @@ class Demo:
     No = 10
     
     def __init__(self,A,B):
-        self.Value1 = A
+        self.Value1 = A 
         self.Value2 = B
 
     def Fun(self):
