@@ -8,7 +8,7 @@
 # Output        : It return true if divisible by 3 else retuen false
 # Author        : Vivek Bhauraj Gautam
 # Date          : 19 January 2026
-#################################################################
+################################################################# 
 def CheckDivisible(No):
     if No % 3 == 0:
         return True
