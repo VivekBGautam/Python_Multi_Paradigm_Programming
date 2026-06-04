@@ -1,4 +1,4 @@
-# Write A program which ecept the filename from user 
+# Write A program which ecept the filename from user
 # And count the frequency of lines in that file
  
 #=======================================================================
