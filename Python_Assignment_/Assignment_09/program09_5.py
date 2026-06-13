@@ -17,7 +17,7 @@ def CheckDivisible(No):
 
 
 #################################################################
-# Function Name : main
+# Function Name : main 
 # Description   : This is the entry point of the program and calls Display()
 # Input         : None
 # Output        : Executes CheckDivisible function
