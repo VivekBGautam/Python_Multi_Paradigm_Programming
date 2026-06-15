@@ -4,7 +4,7 @@
 #################################################################
 # Function Name : CheckDivisible
 # Description   : This function which to check it will divisible by 3 or not
-# Input         : No As value to Check which are divisible by 3 or not 
+# Input         : No As value to Check which are divisible by 3 or not
 # Output        : It return true if divisible by 3 else retuen false
 # Author        : Vivek Bhauraj Gautam
 # Date          : 19 January 2026
