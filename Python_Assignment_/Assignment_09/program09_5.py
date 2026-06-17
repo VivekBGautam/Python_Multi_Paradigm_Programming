@@ -1,7 +1,7 @@
 # Write a program which contains one function named as CheckDivisible() 
 # That accept one number and check it will  divisibel by 3 or not
 
-################################################################# 
+#################################################################
 # Function Name : CheckDivisible
 # Description   : This function which to check it will divisible by 3 or not
 # Input         : No As value to Check which are divisible by 3 or not
