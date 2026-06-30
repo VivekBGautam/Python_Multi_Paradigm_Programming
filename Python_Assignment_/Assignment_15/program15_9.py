@@ -1,6 +1,6 @@
 # Write a lambda function using Filter() which accept a list of number
 # And return Product of numbers 
-from functools import reduce
+from functools import reduce 
 
 #################################################################
 # Function Name : Product = lambda X, Y: X + Y
