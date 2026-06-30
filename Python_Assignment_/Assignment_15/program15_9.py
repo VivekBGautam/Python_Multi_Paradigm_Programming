@@ -11,7 +11,7 @@ from functools import reduce
 # Author        : Vivek Bhauraj Gautam
 # Date          : 21 January 2026
 #################################################################
-Product = lambda X, Y: X * Y
+Product = lambda X, Y: X * Y 
 
 
 #################################################################
