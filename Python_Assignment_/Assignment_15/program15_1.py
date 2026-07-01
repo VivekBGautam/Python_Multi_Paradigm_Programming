@@ -1,7 +1,7 @@
 # Write a lambda function using map() which accept a list of number
 # And return list of square of each number
 
-#################################################################
+################################################################# 
 # Function Name : Square
 # Description   : Accepts one number and returns the square of
 #                 that number using lambda function
