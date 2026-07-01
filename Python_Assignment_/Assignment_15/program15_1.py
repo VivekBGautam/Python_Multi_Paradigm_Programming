@@ -1,5 +1,5 @@
 # Write a lambda function using map() which accept a list of number
-# And return list of square of each number 
+# And return list of square of each number
 
 #################################################################
 # Function Name : Square
