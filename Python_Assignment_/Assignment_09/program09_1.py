@@ -9,7 +9,7 @@
 # Author        : Vivek Bhauraj Gautam
 # Date          : 19 January 2026
 #################################################################
-def Display():
+def Display(): 
     print("Jay Ganesh")
 
 
